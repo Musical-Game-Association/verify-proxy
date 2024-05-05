@@ -1,6 +1,4 @@
-Mugassn-staff https://mugassn-staff.workers.dev/c1ed2e60-8c2c-4373-8bf1-6f4c5d6f58f7
-pro https://pro.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
-proxy https://proxy.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
+proxy https://proxy-6ak.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 mga https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 Wilson https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 sorakalee https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
@@ -14,7 +12,7 @@ DylanCharles https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 yueqian https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 otising https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 wxy1117 https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
-xiaoai https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
+xiaoai https://2024-6-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 Leyiang https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 ZYT https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 NINGNING https://2024-5-15.workers.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
