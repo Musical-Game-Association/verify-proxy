@@ -1,4 +1,4 @@
-proxy https://proxy-6ak.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
+proxy https://proxy-mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 mga https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 Wilson https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 sorakalee https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
