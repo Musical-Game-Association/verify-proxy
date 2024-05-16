@@ -1,4 +1,4 @@
-proxy https://proxy-mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
+promax 
 mga https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 gzjy https://gzjy.pages.dev/90dd7588-1170-4f53-9c4b-73f9e58e1410
 Wilson https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
