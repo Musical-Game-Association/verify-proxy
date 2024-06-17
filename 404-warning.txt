@@ -1,4 +1,4 @@
-proxy https://first-test-for-proxy.pages.dev/proxy
+proxy https://first-test-proxy.mugassn.cloudns.be/proxy
 probation https://promax-mugassn.pages.dev/f10e7efc-6eff-4fcf-8759-abd6bad4110e
 mga https://mugassn.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 gzjy https://gzjy.pages.dev/90dd7588-1170-4f53-9c4b-73f9e58e1410
@@ -44,3 +44,4 @@ lfy8048 https://2024-11-30.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 19951230 https://2024-6-20.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 xbs520 https://2024-6-2.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
 Afrayanny666 https://2025-5-20.pages.dev/60a954fd-4aad-40a6-8b35-55b3f0daf33f
+wzx122316 https://trojan.techny.workers.dev/mugassn
